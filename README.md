@@ -25,7 +25,6 @@ To run these notebooks, you'll need:
 - Jupyter Notebook
 - NLTK
 - NumPy
-- (Any other libraries used in the notebooks)
 
 ## Installation
 
